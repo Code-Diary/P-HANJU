@@ -1,5 +1,5 @@
 ##### [1. 기본 형변환](#기본-형변환)
-##### [2. *args vs **kwargs](#*args-vs-**kwargs)
+##### [2. args vs kwargs](#args-vs-kwargs)
 
 
 ### 기본 형변환
@@ -35,7 +35,7 @@ ex) ch = chr(ord('a')+1);
 
 <br>
 
-### *args vs **kwargs
+### args vs kwargs
 
 * 먼저 꼭 *args와 **kwargs 라는 이름으로 사용할 필요는 없다.  ( * 만 잘 맞춰서 사용하면 됨)
 
